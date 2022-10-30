@@ -1,0 +1,11 @@
+{
+  "name": "contract-registry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/contract-registry.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.15.12"
+  }
+}
